@@ -5,7 +5,7 @@ import CategoryCard from "@/components/category-card";
 
 export default function Home() {
     return (
-        <main className="bg-neutral-900 min-h-dvh">
+        <main className="min-h-dvh">
             <div className="pt-[15vh] flex flex-col items-center justify-center">
                 <div className="mb-28">
                     <h1 className="scroll-m-20 font-extrabold tracking-tight text-5xl text-neutral-50">MixAttack</h1>
